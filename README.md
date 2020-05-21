@@ -1,4 +1,48 @@
-## Welcome to GitHub Pages
+<h1 align = "center" /p> J RILEY NOE 
+  
+<p align = "center" >
+  jnoe@georgetowncollege.edu • (502)649-7778 • Louisville, KY
+  </p>
+  
+
+### Education
+
+<div> 
+  <p align = "left"> 
+    <b>Georgetown College, Kentucky</b></div>
+  <p align= "right">
+    <b> Anticipated Graduation: May 2021<b></div>
+</div>
+    
+    
+ </p>
+ ## under
+ 
+<div>
+  <b align = "left">
+    Georgetown College, Kentucky</b><div>
+  <p align = "right">
+    Anticipated Graduation</p>
+</div>
+      
+      
+      
+      
+<div align = "left"> Georgetown College </div><div align="right"> Anticipated Graduation </div>
+      
+      penis
+Georgetown College, Kentucky </p></p align = "right"> Anticipated Graduation</p> 
+
+
+<pre align = "right">  Anticipated graduation: May 2021 </pre>
+
+
+### Experience {.green}
+
+###
+
+
+
 
 You can use the [editor on GitHub](https://github.com/jrileynoe/Test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,12 +70,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jrileynoe/Test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
